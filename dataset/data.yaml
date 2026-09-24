@@ -1,0 +1,15 @@
+names:
+  - Crack
+  - Grid
+  - Spot
+
+nc: 3 
+
+train: train/images
+
+val: valid/images
+
+
+
+
+
