@@ -2,9 +2,9 @@
 > 项目简介：基于YOLOv8实现目标检测，支持图片、屏幕画面、视频检测，包含模型训练与评估代码。本项目用于考研复试展示。
 
 ## 项目目录结构
-'''text
+```text
 panel-2/
-├── src/ # 源代码文件夹
+├── src/ # 源代码文件夹  
 │ ├── train.py # 模型训练脚本
 │ ├── model_eval.py # 模型评估脚本
 │ ├── screen_detect_normal.py # 屏幕检测普通版
@@ -16,4 +16,4 @@ panel-2/
 ├── best.pt # 训练完成的最优权重best
 ├── .gitignore # Git 忽略文件配置
 └── README.md # 项目说明文档
-'''
+```
